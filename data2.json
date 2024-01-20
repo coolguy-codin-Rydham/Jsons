@@ -1,0 +1,59 @@
+[
+    {
+        studentName: "Logan Miller",
+        studentRollNo: "K789",
+        studentGroup: 1,
+        studentSession: "2022-26",
+        studentSem: "Spring",
+        studentFaceDescriptor: [0.33, 0.34, 0.35, 0.36],
+      },
+      {
+        studentName: "Amelia Garcia",
+        studentRollNo: "L123",
+        studentGroup: 2,
+        studentSession: "2022-26",
+        studentSem: "Fall",
+        studentFaceDescriptor: [0.37, 0.38, 0.39, 0.40],
+      },
+        {
+          studentName: "Ethan Rodriguez",
+          studentRollNo: "M456",
+          studentGroup: 1,
+          studentSession: "2022-26",
+          studentSem: "Spring",
+          studentFaceDescriptor: [0.41, 0.42, 0.43, 0.44],
+        },
+        {
+          studentName: "Ava Martinez",
+          studentRollNo: "N789",
+          studentGroup: 2,
+          studentSession: "2022-26",
+          studentSem: "Fall",
+          studentFaceDescriptor: [0.45, 0.46, 0.47, 0.48],
+        },
+        {
+          studentName: "Jackson Taylor",
+          studentRollNo: "O123",
+          studentGroup: 1,
+          studentSession: "2022-26",
+          studentSem: "Spring",
+          studentFaceDescriptor: [0.49, 0.50, 0.51, 0.52],
+        },
+        {
+          studentName: "Emma Hernandez",
+          studentRollNo: "P456",
+          studentGroup: 2,
+          studentSession: "2022-26",
+          studentSem: "Fall",
+          studentFaceDescriptor: [0.53, 0.54, 0.55, 0.56],
+        },
+        {
+          studentName: "Mason Turner",
+          studentRollNo: "Q789",
+          studentGroup: 1,
+          studentSession: "2022-26",
+          studentSem: "Spring",
+          studentFaceDescriptor: [0.57, 0.58, 0.59, 0.60],
+        }
+      
+]
