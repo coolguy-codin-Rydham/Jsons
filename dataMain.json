@@ -1,0 +1,34 @@
+[
+    {
+      "studentName": "Shivansh Khunger",
+      "studentRollNo": "2210992324",
+      "studentGroup": 30,
+      "studentSession": "2022-26",
+      "studentSem": "4",
+      "studentFaceDescriptor": [0.61, 0.62, 0.63, 0.64]
+    },
+    {
+      "studentName": "Sameer Kumar",
+      "studentRollNo": "2210990776",
+      "studentGroup": 12,
+      "studentSession": "2022-26",
+      "studentSem": "4",
+      "studentFaceDescriptor": [0.65, 0.66, 0.67, 0.68]
+    },
+    {
+      "studentName": "Rupesh Singla",
+      "studentRollNo": "2210990749",
+      "studentGroup": 12,
+      "studentSession": "2022-26",
+      "studentSem": "4",
+      "studentFaceDescriptor": [0.69, 0.7, 0.71, 0.72]
+    },
+    {
+      "studentName": "Rydhampreet Singh",
+      "studentRollNo": "2210990751",
+      "studentGroup": 12,
+      "studentSession": "2022-26",
+      "studentSem": "4",
+      "studentFaceDescriptor": [0.73, 0.74, 0.75, 0.76]
+    }
+]
